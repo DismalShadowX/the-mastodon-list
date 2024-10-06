@@ -1,9 +1,9 @@
 /* stylelint-disable a11y/font-size-is-readable */
 :root {
-  --color-gunmetal: #282c37;
+  --color-gunmetal: #424242;
   --color-eerie-black: #191c22;
   --color-lotion: #fafafa;
-  --color-violets-are-blue: #8c8dff;
+  --color-violets-are-blue: #FFD700;
   --color-white: #fff;
   --color-dark-electric-blue: #606984;
   --color-very-light-blue: #595aff;
@@ -26,7 +26,7 @@ a:hover {
 }
 
 body {
-  background-color: var(--color-eerie-black);
+  background-color: #212121;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
   font-size: 15px;
   line-height: 1.4;
@@ -35,7 +35,7 @@ body {
 
 footer,
 section {
-  background-color: var(--color-gunmetal);
+  background-color: #282828;
   border-radius: 4px;
   color: var(--color-lotion);
   margin: 40px auto 0;
